@@ -1,0 +1,17 @@
+#tudo{
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: 460px;
+    color: aliceblue; text-shadow: black 0.1em 0.1em 0.7em ;
+}
+
+#lista{
+    margin-left: 50px;
+}
+
+#fundo{
+   width: 1500px;
+   height: 845px;
+    background-image: url(../img/fundinho_di_flor.jpg); 
+}
+
